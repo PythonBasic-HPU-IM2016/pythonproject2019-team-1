@@ -12,3 +12,4 @@ except NameError:
     print("试图访问的变量名不存在")
 except SyntaxError:
     print("存在语法错误")
+    print("test")
